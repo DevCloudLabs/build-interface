@@ -1,6 +1,6 @@
 import { BiTrash } from "react-icons/bi";
 
-function AppointmentList({appointment}) {
+function AppointmentList({ appointment }) {
   return (
     <li className="px-3 py-3 flex items-start">
       <button
